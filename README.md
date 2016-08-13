@@ -9,4 +9,4 @@ Hold the mouse button while moving the mouse to make the figure move.
      right mouse button      -  translate
      Alt+left mouse button   -  zoom
 
-The complete directions and motivation for using this application can be found in [my bachelor's thesis](https://sites.google.com/site/alfaromontufar/tesis.pdf?attredirects=0). An introductory paper on the subject can be found in the Miselanea Matematica: [Knots in biology](http://www.miscelaneamatematica.org/Misc44/Cabrera_h.pdf)
+The complete directions and motivation for using this application can be found in [my bachelor's thesis](https://sites.google.com/site/alfaromontufar/tesis.pdf?attredirects=0). An introductory paper on the subject can be found in the Miselanea Matematica: [Knots in biology](http://www.miscelaneamatematica.org/Misc44/Cabrera_h.pdf). A previous project using only Java can be gound [here](https://github.com/alfaromontufar/Knot2D).
